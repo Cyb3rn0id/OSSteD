@@ -64,8 +64,8 @@ For an easy mounting internally to the rotating plate I designed a small stand: 
 
 ### Attachments
 - [PCB Stand STL](./stl/OSSteD_stand.stl)
-- [Schematic](./docs/OSSted_schematic.pdf)
-- [Folder with PCB Gerbers](./gerbers) => Or [buy directly a PCB from PCBWay](https://tinyurl.com/osstedpcb)  
+- [Schematic](./docs/OSSteD_schematic.pdf)
+- [Gerbers](./gerbers) => Or [buy directly a PCB from PCBWay](https://tinyurl.com/osstedpcb)  
 - [Datasheets](./docs/datasheets/)
 
 ### Other parts you need
